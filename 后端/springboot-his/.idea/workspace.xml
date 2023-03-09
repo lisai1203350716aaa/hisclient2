@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf465fc-e3b9-429f-a7e5-1c69d9395dd5" name="Changes" comment="2023-3-9 提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/his-common" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\environment\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../environment/apache-maven-3.9.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="G:\environment\apache-maven-3.9.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MfOirfqIUQF0TqzkW1isbcNGtK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "G:/医院His系统的设计与实现/后端/springboot-his/his-drugstore/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "305e510efee6c7fa122233d6f22b8ff8",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\医院His系统的设计与实现\后端\springboot-his\his-drugstore\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\医院His系统的设计与实现\后端\springboot-his\his-common\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mapper" />
+      <recent name="com.drugstore.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HisOutpatientApplication">
+    <configuration name="Demo01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="his-outpatient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.outpatient.TestDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.outpatient.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.outpatient.TestDemo.Demo01" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="his-outpatient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.outpatient.TestDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.outpatient.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.outpatient.TestDemo.Demo01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.test012" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="his-outpatient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.outpatient.TestDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.outpatient.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.outpatient.TestDemo.Demo01" />
+      <option name="METHOD_NAME" value="test012" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01.testDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="his-outpatient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.outpatient.TestDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.outpatient.TestDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.outpatient.TestDemo.Demo01" />
+      <option name="METHOD_NAME" value="testDemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest.getRegistLevelList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="his-drugstore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.outpatient.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.drugstore.service" />
+      <option name="MAIN_CLASS_NAME" value="com.drugstore.service.ServiceTest" />
+      <option name="METHOD_NAME" value="getRegistLevelList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisCommonApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-his (1) (com.common)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.HisCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="his-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.common.HisCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisDrugstoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-his (2) (com.drugstore)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.drugstore.HisDrugstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisDrugstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="his-drugstore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.drugstore.HisDrugstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisOutpatientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="his-outpatient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.outpatient.HisOutpatientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootHisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-his" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lisai.SpringbootHisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo01.testDemo" />
+        <item itemvalue="JUnit.Demo01.test01" />
+        <item itemvalue="JUnit.Demo01.test012" />
+        <item itemvalue="JUnit.Demo01.test" />
+        <item itemvalue="JUnit.ServiceTest.getRegistLevelList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf465fc-e3b9-429f-a7e5-1c69d9395dd5" name="Changes" comment="" />
+      <created>1678155300911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678155300911</updated>
+      <workItem from="1678155302130" duration="359000" />
+      <workItem from="1678155668148" duration="16540000" />
+      <workItem from="1678236136193" duration="25360000" />
+      <workItem from="1678273662016" duration="640000" />
+      <workItem from="1678322637389" duration="2431000" />
+      <workItem from="1678325794064" duration="15384000" />
+    </task>
+    <task id="LOCAL-00001" summary="2023-3-7 提交">
+      <created>1678187797098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187797098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023-3-7 提交">
+      <created>1678273426897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678273426897</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023-3-9 提交">
+      <created>1678357817797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678357817797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023-3-7 提交" />
+    <MESSAGE value="2023-3-9 提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-3-9 提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
